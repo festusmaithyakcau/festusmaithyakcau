@@ -1,10 +1,10 @@
 - 👋 Hi, I’m FESTUS MAITHYA (adonis)
 
-   =>PROGRAMMING LANGUAGES
+   =>PROGRAMMING LANGUAGES and Frameworks 
     *PYTHON
     *JAVASCRIPT
-    *JAVA
-    *PHP
+    *Node.js
+    *Django 
     *HTML/CSS
     *RUBY
     *C LANGUAGE
