@@ -1,4 +1,4 @@
-- 👋 Hi, I’m FESTUS MAITHYA (adonis)
+- 👋 Hi, I’m FESTUS MAITHYA
 
    =>PROGRAMMING LANGUAGES and Frameworks 
     *PYTHON
