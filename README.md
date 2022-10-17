@@ -2,36 +2,36 @@
 
    =>PROGRAMMING LANGUAGES and Frameworks 
     *PYTHON
-    *JAVASCRIPT
+    *JAVASCRIPT/ES6
     *Node.js
     *Django 
-    *HTML/CSS
+    *HTML5/CSS3
     *RUBY
     *C LANGUAGE
     *MYSQL
+    *MONGODB
 
 - 👀 I’m interested in:
-      -Web development (either frontend or backend).
-      -Machine learning.
-      -Artificial Intelligence.
+      -Web development (fullstack development).
+      -Machine learning and Artificial Intelligence.
       -Data Science.
-      -Mobile programming.
       -Ethical hacking.
       -Geinformatics and remote sensing.
 - 🌱 I’m currently undertaking my bachelor's in software development at KCA UNIVERSITY MAIN CAMPUS, RUARAKA.
-- 💞️ I’m looking to collaborate on launching a mega  project which will be based on autonomous economy. 
+- 💞️ I’m looking to collaborate on every autononomous machine learning projects. 
+
 - 📫 How to reach me=>
-- Phone number:
-      +254796158635
-Emails:
+
+-Phone number:+254796158635
+      
+-Emails:
        festusmaithya50@gmail.com
-
        festusmaithya264@gmail.com
-
-       2104838@students.kcau.ac.ke     
+       2104838@students.kcau.ac.ke   
        
-       LinkedIn:https://www.linkedin.com/in/festus-maithya-728912243
-       Online portfolio:https://festusmaithyaportfolio.pages.dev/
+-LinkedIn: https://www.linkedin.com/in/festus-maithya-728912243
+
+-Online portfolio: https://festusmaithyaportfolio.pages.dev/
 <!---
 festusmaithya/festusmaithya is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
