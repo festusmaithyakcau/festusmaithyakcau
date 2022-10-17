@@ -25,8 +25,13 @@
       +254796158635
 Emails:
        festusmaithya50@gmail.com
+
        festusmaithya264@gmail.com
-       2104838@students.kcau.ac.ke                                       
+
+       2104838@students.kcau.ac.ke     
+       
+       LinkedIn:https://www.linkedin.com/in/festus-maithya-728912243
+       Online portfolio:https://festusmaithyaportfolio.pages.dev/
 <!---
 festusmaithya/festusmaithya is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
