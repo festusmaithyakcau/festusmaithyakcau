@@ -1,22 +1,37 @@
 - 👋 Hi, I’m FESTUS MAITHYA
-
-   =>PROGRAMMING LANGUAGES and Frameworks 
-    *PYTHON
-    *JAVASCRIPT/ES6
-    *Node.js
-    *Django 
-    *HTML5/CSS3
-    *RUBY
-    *C LANGUAGE
-    *MYSQL
-    *MONGODB
-
 - 👀 I’m interested in:
       -Web development (fullstack development).
+      
       -Machine learning and Artificial Intelligence.
+      
       -Data Science.
+      
       -Ethical hacking.
+      
       -Geinformatics and remote sensing.
+      
+
+
+=>PROGRAMMING LANGUAGES and Frameworks 
+   
+    *PYTHON
+    
+    *JAVASCRIPT/ES6
+    
+    *Node.js
+    
+    *Django 
+    
+    *HTML5/CSS3
+    
+    *RUBY
+    
+    *C LANGUAGE
+    
+    *MYSQL
+    
+    *MONGODB
+
 - 🌱 I’m currently undertaking my bachelor's in software development at KCA UNIVERSITY MAIN CAMPUS, RUARAKA.
 - 💞️ I’m looking to collaborate on every autononomous machine learning projects. 
 
