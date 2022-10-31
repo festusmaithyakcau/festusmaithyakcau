@@ -2,13 +2,17 @@
 - 👀 I’m interested in:
       -Web development (fullstack development).
       
-      -Machine learning and Artificial Intelligence.
-      
       -Data Science.
+      
+           -Machine learning
+           
+           -Artificial Intelligence.
+      
+      -Blockchain Technology
       
       -Ethical hacking.
       
-      -Geinformatics and remote sensing.
+      -FullStack Development
       
 
 
@@ -23,8 +27,6 @@
     *Django 
     
     *HTML5/CSS3
-    
-    *RUBY
     
     *C LANGUAGE
     
