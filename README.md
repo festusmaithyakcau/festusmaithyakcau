@@ -61,7 +61,7 @@
             <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=festusmaithyakcau&theme=radical" alt="festusmaithyakcau"/>
         </a>
     </p>
-    <p align="right" > Created by <a href="https://github.com/festusmaithykcau">Festus Maithya</a>
+    <p align="right" > Created by <a href="https://github.com/festusmaithyakcau">Festus Maithya</a>
     </p>
     <p align="right" > 
         <img src="https://komarev.com/ghpvc/?username=festusmaithyakcau&label=Profile%20views&color=0e75b6&style=flat" 
