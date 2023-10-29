@@ -1,4 +1,4 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=0DE11D&center=true&multiline=true&random=false&width=500&height=135&lines=Hello+There+%F0%9F%91%8B%F0%9F%91%8B%F0%9F%91%8B;My+name+is+Festus+Maithya!;Analytical+*+Passionate+*+Fast-Learner" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=0DE11D&center=true&multiline=false&random=false&width=500&height=135&lines=Hello+There+%F0%9F%91%8B%F0%9F%91%8B%F0%9F%91%8B;My+name+is+Festus+Maithya!;Analytical+*+Passionate+*+Fast-Learner" alt="Typing SVG" /></a>
 <h1 align="center"> Hi, 👋 I'm Festus Maithya </h1>
 
 ---
