@@ -26,7 +26,6 @@
 ![Apache Spark](https://img.shields.io/badge/apache_spark-007ACC?style=for-the-badge&labelColor=black&logo=apachespark&logoColor=007ACC)
 ![Apache Hadoop](https://img.shields.io/badge/Hadoop-007ACC?style=for-the-badge&labelColor=black&logo=apachehadoop&logoColor=007ACC)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
 ![VSCode](https://img.shields.io/badge/Visual_Studio-0078d7?style=for-the-badge&logo=visual%20studio&logoColor=white)
 
 </details>
