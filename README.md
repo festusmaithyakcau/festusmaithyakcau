@@ -5,9 +5,9 @@
 
 <details align="left", open= "">
     <summary>
-        <h1>💻 Tech Stack
+        <h1>💻 Tech Stack</h1>
             <br>
-        <h2>Programming Languages/Data Engineering Tools/Cloud Computing
+        <h2>Programming Languages/Data Engineering Tools/Cloud Computing</h2>
     </summary>
 
 ![Python](https://img.shields.io/badge/Python-007acc?style=for-the-badge&labelColor=black&logo=python&logoColor=007acc)
