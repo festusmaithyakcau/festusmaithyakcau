@@ -6,6 +6,7 @@
 <details align="left", open= "">
     <summary>
         <h1>💻 Tech Stack
+            <br>
         <h2>Programming Languages/Data Engineering Tools/Cloud Computing
     </summary>
 
