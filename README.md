@@ -8,45 +8,37 @@
     <br>
     <h2>Programming Languages || Data Engineering || Cloud Computing & AI</h2>
   </summary>
+<p>
+    <!-- Programming Languages -->
+<img src="https://img.shields.io/badge/Python-007acc?style=for-the-badge&labelColor=black&logo=python&logoColor=007acc"/>
+<img src="https://img.shields.io/badge/micropython-007acc?style=for-the-badge&labelColor=black&logo=micropython&logoColor=007acc"/>
+<img src="https://img.shields.io/badge/java-1572B6?style=for-the-badge&logo=jamstack&logoColor=white"/>
+<img src="https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F"/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 
-  <!-- All in one row, divided into 3 visual "columns" using inline spans -->
-  <p>
-    <!-- Column 1: Programming Languages -->
-    <span>
-      <img src="https://img.shields.io/badge/Python-007acc?style=for-the-badge&labelColor=black&logo=python&logoColor=007acc"/>
-      <img src="https://img.shields.io/badge/micropython-007acc?style=for-the-badge&labelColor=black&logo=micropython&logoColor=007acc"/>
-      <img src="https://img.shields.io/badge/java-1572B6?style=for-the-badge&logo=jamstack&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F"/>
-      <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-      <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-    </span>
-    
-    &nbsp;&nbsp;&nbsp;&nbsp; <!-- spacing between columns -->
+&nbsp;&nbsp;&nbsp;
 
-    <!-- Column 2: Data Engineering -->
-    <span>
-      <img src="https://img.shields.io/badge/-Docker-61DBFB?style=for-the-badge&labelColor=black&logo=docker&logoColor=61DBFB"/>
-      <img src="https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=blue"/>
-      <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
-      <img src="https://img.shields.io/badge/apache_kafka-007ACC?style=for-the-badge&labelColor=black&logo=apachekafka&logoColor=white"/>
-      <img src="https://img.shields.io/badge/apache_spark-007ACC?style=for-the-badge&labelColor=black&logo=apachespark&logoColor=007ACC"/>
-      <img src="https://img.shields.io/badge/airflow-FFFFFF?style=for-the-badge&logo=apacheairflow&logoColor=E34F26"/>
-      <img src="https://img.shields.io/badge/Hadoop-007ACC?style=for-the-badge&labelColor=black&logo=apachehadoop&logoColor=007ACC"/>
-    </span>
+<!-- Data Engineering -->
+<img src="https://img.shields.io/badge/Docker-61DBFB?style=for-the-badge&labelColor=black&logo=docker&logoColor=61DBFB"/>
+<img src="https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=blue"/>
+<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/apache_kafka-007ACC?style=for-the-badge&labelColor=black&logo=apachekafka&logoColor=white"/>
+<img src="https://img.shields.io/badge/apache_spark-007ACC?style=for-the-badge&labelColor=black&logo=apachespark&logoColor=007ACC"/>
+<img src="https://img.shields.io/badge/airflow-FFFFFF?style=for-the-badge&logo=apacheairflow&logoColor=E34F26"/>
+<img src="https://img.shields.io/badge/Hadoop-007ACC?style=for-the-badge&labelColor=black&logo=apachehadoop&logoColor=007ACC"/>
 
-    &nbsp;&nbsp;&nbsp;&nbsp; <!-- spacing between columns -->
+&nbsp;&nbsp;&nbsp;
 
-    <!-- Column 3: Cloud & AI -->
-    <span>
-      <img src="https://img.shields.io/badge/google_cloud_platform-3C8?style=for-the-badge&labelColor=black&logo=googlecloud&logoColor=F0DB4F"/>
-      <img src="https://img.shields.io/badge/microsoft_azure-007ACC?style=for-the-badge&labelColor=black&logo=microsoftazure&logoColor=007ACC"/>
-      <img src="https://img.shields.io/badge/CloudFlare-FFFFFF?style=for-the-badge&logo=cloudflare&logoColor=E34F26"/>
-      <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white"/>
-      <img src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Visual_Studio-0078d7?style=for-the-badge&logo=visual%20studio&logoColor=white"/>
-    </span>
+<!-- Cloud & AI -->
+<img src="https://img.shields.io/badge/google_cloud_platform-3C8?style=for-the-badge&labelColor=black&logo=googlecloud&logoColor=F0DB4F"/>
+<img src="https://img.shields.io/badge/microsoft_azure-007ACC?style=for-the-badge&labelColor=black&logo=microsoftazure&logoColor=007ACC"/>
+<img src="https://img.shields.io/badge/CloudFlare-FFFFFF?style=for-the-badge&logo=cloudflare&logoColor=E34F26"/>
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+<img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white"/>
+<img src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/Visual_Studio-0078d7?style=for-the-badge&logo=visual%20studio&logoColor=white"/>
   </p>
 </details>
 
