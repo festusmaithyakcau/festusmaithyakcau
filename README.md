@@ -11,11 +11,17 @@
     </summary>
 
 ![Python](https://img.shields.io/badge/Python-007acc?style=for-the-badge&labelColor=black&logo=python&logoColor=007acc)
+
 ![MicroPython](https://img.shields.io/badge/micropython-007acc?style=for-the-badge&labelColor=black&logo=micropython&logoColor=007acc)
+
 ![Java](https://img.shields.io/badge/java-1572B6?style=for-the-badge&logo=jamstack&logoColor=white)
+
 ![Javascript](https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)
+
 ![Docker](https://img.shields.io/badge/-Docker-61DBFB?style=for-the-badge&labelColor=black&logo=docker&logoColor=61DBFB)
+
 ![MySQL](https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=blue)
+
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 <br>
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
