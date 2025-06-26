@@ -6,7 +6,7 @@ on:
       - main
       - update
   schedule:
-    # Atualiza a cada 5 horas
+    # Updates every 5 hours
     - cron: "0 */5 * * *"
   workflow_dispatch:
 
