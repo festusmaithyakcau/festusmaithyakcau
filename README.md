@@ -86,7 +86,7 @@
 | --- | --- |
 | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=festusmaithyakcau&theme=chartreuse_dark&exclude=swift&PAT_1=festusmaithyakcau) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=festusmaithyakcau&theme=chartreuse_dark) |
 
-<p>Note: My Git-Hub has these predominant languages but as a cross-platform dev,I can easily adapt to develop solid and scalable systems in any technology.
+<p>Note: My GitHub has these predominant languages but as a cross-platform dev,I can easily adapt to develop solid and scalable systems in any technology.
 
 </p>
 
