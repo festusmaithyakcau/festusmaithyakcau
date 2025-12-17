@@ -94,7 +94,7 @@
 
 | Contributions | Average productivity |
 | --- | --- |
-| ![Github contribuinte](https://github-readme-streak-stats-8equ.vercel.app?user=festusmaithyakcau&theme=chartreuse-dark) | ![Produtividade_media](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=festusmaithyakcau&theme=chartreuse_dark&utcOffset=-3) |
+| ![Github contribuinte](https://github-readme-streak-stats-8equ.vercel.app?user=festusmaithyakcau&theme=chartreuse-dark) | ![Produtividade_media](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=festusmaithyakcau&theme=chartreuse_dark&utcOffset=+3) |
 
 ## Trophies
 
