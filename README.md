@@ -12,7 +12,7 @@
   
 [<img src="https://capsule-render.vercel.app/api?type=waving&color=0A0&height=100&section=header"/>](https://capsule-render.vercel.app/)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=1000&size=25&pause=1000&color=11F70E&center=true&vCenter=true&width=435&lines=AI+Contractor+%40+Turing+)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=1000&size=25&pause=1000&color=11F70E&center=true&vCenter=true&width=435&lines=Business+Analyst+%40+Turing;AI+Contractor+%40+Turing+)](https://git.io/typing-svg)
 </div>
 
 ![snake gif](https://github.com/festusmaithyakcau/festusmaithyakcau/blob/output/github-contribution-grid-snake-dark.svg)
