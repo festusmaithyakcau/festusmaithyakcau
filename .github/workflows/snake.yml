@@ -28,6 +28,15 @@ jobs:
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
+      # the live streak-stats.demolab.com endpoint is too slow (10-20s cold
+      # starts) for GitHub's image proxy timeout, so pre-render it here and
+      # serve the static file from the output branch instead
+      - name: fetch streak-stats.svg
+        run: |
+          mkdir -p dist
+          curl -sL --retry 3 --retry-delay 5 --max-time 40 \
+            "https://streak-stats.demolab.com?user=${{ github.repository_owner }}&theme=chartreuse-dark" \
+            -o dist/streak-stats.svg
 
       # push the content of <build_dir> to a branch
       # the content will be available at https://raw.githubusercontent.com/<github_user>/<repository>/<target_branch>/<file> , or as github page

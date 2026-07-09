@@ -208,7 +208,7 @@ festus@maithya-os ~ % streak --status --live
 
 | `STREAK STATUS` | `PRODUCTIVITY INDEX` |
 | :---: | :---: |
-| ![Github contribuinte](https://streak-stats.demolab.com?user=festusmaithyakcau&theme=chartreuse-dark) | ![Produtividade_media](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=festusmaithyakcau&theme=chartreuse_dark&utcOffset=+3) |
+| ![Github contribuinte](https://raw.githubusercontent.com/festusmaithyakcau/festusmaithyakcau/output/streak-stats.svg) | ![Produtividade_media](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=festusmaithyakcau&theme=chartreuse_dark&utcOffset=+3) |
 
 </div>
 
@@ -255,7 +255,7 @@ festus@maithya-os ~ % visitors --count --total
 
 <div align="center">
 
-<img src="https://profile-counter.glitch.me/festusmaithyakcau/count.svg"/>
+<img src="https://komarev.com/ghpvc/?username=festusmaithyakcau&label=PROFILE+VIEWS&color=00cc00&style=flat"/>
 
 </div>
 
