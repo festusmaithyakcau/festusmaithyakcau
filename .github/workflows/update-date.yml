@@ -40,6 +40,6 @@ jobs:
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
           repository: ${{ github.repository }}
-          workflow: update-date.yml
+          delete_workflow_pattern: update-date.yml
           retain_days: 0
           keep_minimum_runs: 0

@@ -26,7 +26,7 @@ jobs:
           git config user.name github-actions
           git config user.email github-actions@github.com
           git add -A .
-          git commit -m "generated"
+          git diff --staged --quiet || git commit -m "generated"
           git push
 
       # only reached if the steps above succeeded — clears prior runs of this
@@ -36,6 +36,6 @@ jobs:
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
           repository: ${{ github.repository }}
-          workflow: blank-2.yml
+          delete_workflow_pattern: blank-2.yml
           retain_days: 0
           keep_minimum_runs: 0

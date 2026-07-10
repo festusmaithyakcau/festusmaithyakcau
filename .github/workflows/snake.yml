@@ -55,6 +55,6 @@ jobs:
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
           repository: ${{ github.repository }}
-          workflow: snake.yml
+          delete_workflow_pattern: snake.yml
           retain_days: 0
           keep_minimum_runs: 0
