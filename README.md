@@ -8,7 +8,7 @@
 ########################################
 --->
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,40:002200,70:004400,100:000000&height=160&section=header&text=FESTUS%20MAITHYA&fontColor=00ff41&fontSize=34&fontAlignY=42&animation=fadeIn&desc=KERNEL%20v2026.07.09%20%7C%20STATUS%3A%20ONLINE%20%7C%20CLEARANCE%3A%20ALPHA&descAlignY=68&descSize=14&descColor=33dd55"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,40:002200,70:004400,100:000000&height=160&section=header&text=FESTUS%20MAITHYA&fontColor=00ff41&fontSize=34&fontAlignY=42&animation=fadeIn&desc=KERNEL%20v2026.07.16%20EAT%20%7C%20STATUS%3A%20ONLINE%20%7C%20CLEARANCE%3A%20ALPHA&descAlignY=68&descSize=14&descColor=33dd55"/>
 
 <div align="center">
 
@@ -21,7 +21,7 @@ festus@maithya-os ~ % whoami
 Festus Maithya
 
 festus@maithya-os ~ % neofetch --minimal
-OS: FestusOS 2026.07.09
+OS: FestusOS 2026.07.16 EAT
 Status: online · clearance: alpha
 ```
 

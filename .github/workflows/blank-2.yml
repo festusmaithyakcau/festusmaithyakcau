@@ -1,11 +1,9 @@
 name: GitHub-Profile-3D-Contrib
 
 on:
-  push:
-    branches:
-      - main
-  schedule: # updates every hour
-    - cron: "0 * * * *"
+  schedule:
+    # runs once a day at 00:00 EAT (Africa/Nairobi, UTC+3, no DST)
+    - cron: "0 21 * * *"
   workflow_dispatch:
 
 jobs:

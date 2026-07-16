@@ -1,13 +1,9 @@
 name: Snake Game
 
 on:
-  push:
-    branches:
-      - main
-      - update
   schedule:
-    # Updates every 5 hours
-    - cron: "0 */5 * * *"
+    # runs once a day at 00:00 EAT (Africa/Nairobi, UTC+3, no DST)
+    - cron: "0 21 * * *"
   workflow_dispatch:
 
 jobs:

@@ -2,8 +2,8 @@ name: Update README Date
 
 on:
   schedule:
-    # runs once a day at 00:05 UTC
-    - cron: "5 0 * * *"
+    # runs once a day at 00:00 EAT (Africa/Nairobi, UTC+3, no DST)
+    - cron: "0 21 * * *"
   workflow_dispatch:
 
 jobs:
@@ -17,11 +17,11 @@ jobs:
 
       - name: Stamp today's date into README.md and README.en-us.md
         run: |
-          TODAY=$(date -u +'%Y.%m.%d')
-          YEAR=$(date -u +'%Y')
+          TODAY=$(TZ=Africa/Nairobi date +'%Y.%m.%d')
+          YEAR=$(TZ=Africa/Nairobi date +'%Y')
           for f in README.md README.en-us.md; do
-            sed -i -E "s/KERNEL%20v[0-9]{4}\.[0-9]{2}\.[0-9]{2}/KERNEL%20v${TODAY}/g" "$f"
-            sed -i -E "s/OS: FestusOS [0-9]{4}\.[0-9]{2}\.[0-9]{2}/OS: FestusOS ${TODAY}/g" "$f"
+            sed -i -E "s/KERNEL%20v[0-9]{4}\.[0-9]{2}\.[0-9]{2}(%20EAT)?/KERNEL%20v${TODAY}%20EAT/g" "$f"
+            sed -i -E "s/OS: FestusOS [0-9]{4}\.[0-9]{2}\.[0-9]{2}( EAT)?/OS: FestusOS ${TODAY} EAT/g" "$f"
             sed -i -E "s/Copyright [0-9]{4}/Copyright ${YEAR}/g" "$f"
           done
 
